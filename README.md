@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Fragments
 
 Demo of the tutorial on how to create a simple image poster effect with little image fragments inspired by [The Grand Canyon](http://monstersareafraid.tumblr.com/post/115142712223/the-grand-canyon).
@@ -25,3 +26,7 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 
 
+=======
+# instadiary
+instagram API hastag
+>>>>>>> 187369cab6f7cfd8b08fc33b1c1cf095d8b533f1
